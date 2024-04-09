@@ -1,2 +1,2 @@
 # git-practice
-this repo is practice repo
+this repo is a practice repo
